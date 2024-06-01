@@ -1,0 +1,12 @@
+{
+    "presets": [
+      // JSON-formatted data here
+      "@babel/preset-react",
+      "@babel/preset-env"
+    ],
+    // JSON-formatted data here
+    "plugins": [
+      // JSON-formatted data here
+      "@babel/plugin-proposal-private-property-in-object"
+    ]
+  }
